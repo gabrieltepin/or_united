@@ -1,0 +1,6 @@
+pulp
+networkx
+matplotlib
+scipy
+gurobipy==11.0.0
+python-dotenv
